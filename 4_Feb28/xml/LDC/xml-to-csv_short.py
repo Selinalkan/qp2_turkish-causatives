@@ -44,8 +44,10 @@ df_verb = df[df.pos_tag == "Verb"]
 df_verb.to_csv("short-output-verb.tsv", sep='\t', index=False)
 print(df_verb.head())
 
-freq = collections.Counter(df_verb)
-print(freq["Caus"])
+# Filter the DataFrame by a string value in the "morph_parse" column
+df_caus = df_verb[df_verb["morph_parse"].str.contains("Caus")]
+df_caus.to_csv("short-output-caus.tsv", sep='\t', index=False)
+print(df_caus.head())
 
 
 
