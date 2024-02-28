@@ -41,14 +41,19 @@ df = pd.DataFrame(data)
 
 # Create a new DataFrame with only the Verb rows from the pos_tag column
 df_verb = df[df.pos_tag == "Verb"]
-df_verb.to_csv("short-output-verb.tsv", sep='\t', index=False)
+df_verb.to_csv("short-verb.tsv", sep='\t', index=False)
 print(df_verb.head())
+
+# Drop duplicate rows based on the "word" column for VERB
+unique_df_verb = df_verb.drop_duplicates(subset='word')
+
+# Save DataFrame to TSV for VERB
+unique_df_verb.to_csv("short-verb-unique.tsv", sep='\t', index=False)
 
 # Filter the DataFrame by a string value in the "morph_parse" column
 df_caus = df_verb[df_verb["morph_parse"].str.contains("Caus")]
-df_caus.to_csv("short-output-caus.tsv", sep='\t', index=False)
+df_caus.to_csv("short-caus.tsv", sep='\t', index=False)
 print(df_caus.head())
-
 
 # Count the frequency of rows where "morph_parse" contains at least one "Caus"
 freq = Counter(row['morph_parse'].count('Caus') > 0 for index, row in df_verb.iterrows())
