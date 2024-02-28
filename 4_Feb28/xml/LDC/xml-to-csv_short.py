@@ -1,5 +1,5 @@
 import pandas as pd
-import collections
+from collections import Counter
 
 # Open the XML file
 # with open("short-LDC.xml", "r") as file:
@@ -48,6 +48,22 @@ print(df_verb.head())
 df_caus = df_verb[df_verb["morph_parse"].str.contains("Caus")]
 df_caus.to_csv("short-output-caus.tsv", sep='\t', index=False)
 print(df_caus.head())
+
+
+# Count the frequency of rows where "morph_parse" contains at least one "Caus"
+freq = Counter(row['morph_parse'].count('Caus') > 0 for index, row in df_verb.iterrows())
+
+# Save the output to a file
+output_file = "freq_caus-short.txt"
+with open(output_file, "w") as file:
+    for key, value in freq.items():
+        file.write(f"{'Contains Caus' if key else 'Does not contain Caus'}: {value}\n")
+
+print(f"Output saved to {output_file}")
+
+# Print the frequency
+print(freq)
+
 
 
 
