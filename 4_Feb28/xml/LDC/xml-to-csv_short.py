@@ -55,19 +55,31 @@ df_caus = df_verb[df_verb["morph_parse"].str.contains("Caus")]
 df_caus.to_csv("short-caus.tsv", sep='\t', index=False)
 print(df_caus.head())
 
+# Drop duplicate rows based on the "word" column for CAUS
+unique_df_caus = df_caus.drop_duplicates(subset='word')
+
+# Save DataFrame to TSV
+unique_df_caus.to_csv("short-caus-unique.tsv", sep='\t', index=False)
+
+# With duplicates
 # Count the frequency of rows where "morph_parse" contains at least one "Caus"
 freq = Counter(row['morph_parse'].count('Caus') > 0 for index, row in df_verb.iterrows())
 
 # Save the output to a file
-output_file = "freq_caus-short.txt"
+output_file = "short-freq-caus.txt"
 with open(output_file, "w") as file:
     for key, value in freq.items():
         file.write(f"{'Contains Caus' if key else 'Does not contain Caus'}: {value}\n")
 
-print(f"Output saved to {output_file}")
+# Without duplicates
+# Count the frequency of rows where "morph_parse" contains at least one "Caus"
+freq_unique = Counter(row['morph_parse'].count('Caus') > 0 for index, row in unique_df_verb.iterrows())
 
-# Print the frequency
-print(freq)
+# Save the output to a file
+output_file = "short-freq-caus-unique.txt"
+with open(output_file, "w") as file:
+    for key, value in freq_unique.items():
+        file.write(f"{'Contains Caus' if key else 'Does not contain Caus'}: {value}\n")
 
 
 
