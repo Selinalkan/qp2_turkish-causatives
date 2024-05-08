@@ -55,7 +55,7 @@ df_lemma_counts_merged = df_lemma_counts_merged[
 
 # Sort the dataframe based on caus_freq from ascending to descending
 df_lemma_counts_merged = df_lemma_counts_merged.sort_values(
-    by="caus_freq", ascending=False
+    by="caus_verb_proportion", ascending=False
 )
 
 # Output the merged dataframe to another TSV file
