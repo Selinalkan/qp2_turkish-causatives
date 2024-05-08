@@ -1,0 +1,2033 @@
+caus_lemma	caus_freq	caus_proportion	verb_lemma	verb_freq
+oluş	28318.0	0.478	oluş	59247
+çık	24649.0	0.29	çık	85091
+geliş	15349.0	0.496	geliş	30925
+üre	14793.0	0.88	üre	16817
+öl	14474.0	0.467	öl	31008
+belir	13404.0	0.943	belir	14211
+değiş	11821.0	0.584	değiş	20255
+sür	11391.0	0.333	sür	34202
+yürü	7700.0	0.645	yürü	11937
+başla	6050.0	0.076	başla	79667
+seslen	5754.0	0.937	seslen	6143
+canlan	5551.0	0.913	canlan	6083
+et	4882.0	0.02	et	246926
+işle	4734.0	0.427	işle	11084
+bil	4537.0	0.115	bil	39448
+yetiş	4464.0	0.548	yetiş	8139
+yerleş	4306.0	0.306	yerleş	14057
+kapa	4202.0	0.643	kapa	6538
+birleş	4154.0	0.339	birleş	12251
+sal	3996.0	0.764	sal	5229
+yap	3961.0	0.022	yap	180776
+in	3340.0	0.532	in	6282
+barın	3233.0	0.891	barın	3628
+kazan	3129.0	0.073	kazan	43031
+dur	3085.0	0.312	dur	9874
+dönüş	3072.0	0.41	dönüş	7500
+art	2777.0	0.202	art	13764
+çalış	2774.0	0.04	çalış	70006
+bas	2716.0	0.309	bas	8800
+tanı	2712.0	0.145	tanı	18683
+azal	2565.0	0.387	azal	6632
+bulun	2539.0	0.022	bulun	115189
+yansı	2463.0	0.612	yansı	4026
+genişle	2315.0	0.533	genişle	4346
+dol	2183.0	0.641	dol	3406
+karış	2154.0	0.478	karış	4506
+gerek	2128.0	0.119	gerek	17912
+uza	2051.0	0.266	uza	7705
+yüksel	1926.0	0.141	yüksel	13694
+kısal	1727.0	0.896	kısal	1927
+uğra	1667.0	0.208	uğra	8003
+güçlen	1626.0	1.0	güçlen	1626
+nitelen	1538.0	0.84	nitelen	1832
+düzel	1374.0	0.832	düzel	1651
+uzaklaş	1372.0	0.493	uzaklaş	2781
+fırla	1349.0	0.884	fırla	1526
+ulaş	1349.0	0.072	ulaş	18862
+türe	1203.0	0.443	türe	2716
+uyan	1051.0	0.532	uyan	1974
+sıkış	1031.0	0.66	sıkış	1563
+benze	969.0	0.252	benze	3850
+karşılaş	943.0	0.163	karşılaş	5775
+ayır	929.0	0.037	ayır	25301
+büyü	858.0	0.126	büyü	6808
+çarp	838.0	0.218	çarp	3843
+püskür	833.0	0.767	püskür	1086
+oyna	824.0	0.02	oyna	41930
+dön	810.0	0.035	dön	23126
+yönel	783.0	0.225	yönel	3484
+yaşa	781.0	0.019	yaşa	41776
+er	714.0	0.122	er	5856
+oku	674.0	0.064	oku	10488
+uy	630.0	0.207	uy	3037
+kuru	610.0	0.549	kuru	1112
+dayan	599.0	0.068	dayan	8803
+kay	582.0	0.299	kay	1948
+otur	565.0	0.113	otur	5017
+kap	564.0	0.387	kap	1456
+hatırla	532.0	0.304	hatırla	1749
+evlen	500.0	0.055	evlen	9119
+atla	491.0	0.188	atla	2616
+yaz	473.0	0.014	yaz	34433
+onurlan	462.0	1.0	onurlan	462
+kavuş	444.0	0.163	kavuş	2725
+pekiş	444.0	0.89	pekiş	499
+patla	415.0	0.112	patla	3692
+arın	378.0	0.591	arın	640
+sin	374.0	0.876	sin	427
+birik	374.0	0.36	birik	1038
+tut	373.0	0.028	tut	13268
+çoğal	371.0	0.291	çoğal	1274
+bekle	366.0	0.049	bekle	7429
+şaşır	365.0	0.481	şaşır	759
+getir	364.0	0.012	getir	29245
+giy	363.0	0.023	giy	15574
+eri	362.0	0.275	eri	1315
+al	360.0	0.003	al	142776
+ilgilen	356.0	0.093	ilgilen	3835
+ayrış	346.0	0.421	ayrış	822
+tanış	341.0	0.071	tanış	4804
+kan	341.0	0.879	kan	388
+zayıfla	332.0	0.286	zayıfla	1160
+anımsa	308.0	0.751	anımsa	410
+konuşlan	307.0	0.496	konuşlan	619
+havalan	303.0	0.571	havalan	531
+koş	298.0	0.141	koş	2118
+biçimlen	296.0	0.645	biçimlen	459
+kayna	291.0	0.448	kayna	650
+kes	291.0	0.048	kes	6014
+bin	287.0	0.226	bin	1268
+yavaşla	284.0	0.449	yavaşla	633
+sön	280.0	0.448	sön	625
+ilerle	274.0	0.033	ilerle	8289
+gecik	268.0	0.234	gecik	1144
+küçül	258.0	0.362	küçül	713
+hafifle	255.0	0.842	hafifle	303
+sız	250.0	0.313	sız	798
+düşün	247.0	0.018	düşün	13703
+yücel	245.0	0.914	yücel	268
+çağrış	243.0	0.976	çağrış	249
+yapış	238.0	0.418	yapış	569
+inan	231.0	0.031	inan	7451
+çek	229.0	0.008	çek	28652
+kız	229.0	0.369	kız	620
+buluş	226.0	0.105	buluş	2147
+paylaş	224.0	0.056	paylaş	4025
+bağdaş	213.0	0.661	bağdaş	322
+kuvvetlen	212.0	1.0	kuvvetlen	212
+kur	212.0	0.003	kur	62880
+yumuşa	212.0	0.493	yumuşa	430
+ver	210.0	0.002	ver	101330
+hisset	206.0	0.089	hisset	2314
+yatış	204.0	0.788	yatış	259
+yık	204.0	0.042	yık	4829
+yaklaş	202.0	0.065	yaklaş	3130
+aşın	202.0	0.302	aşın	668
+yakış	189.0	0.602	yakış	314
+kızar	186.0	0.552	kızar	337
+çürü	180.0	0.33	çürü	545
+topla	170.0	0.014	topla	12166
+don	168.0	0.216	don	779
+rahatla	166.0	0.512	rahatla	324
+özen	165.0	0.721	özen	229
+cesaretlen	163.0	0.896	cesaretlen	182
+eşleş	162.0	0.146	eşleş	1111
+at	161.0	0.006	at	26359
+alış	156.0	0.184	alış	850
+çal	152.0	0.021	çal	7303
+hazırla	152.0	0.013	hazırla	12020
+eğlen	145.0	0.312	eğlen	464
+gez	141.0	0.083	gez	1695
+çöker	138.0	0.986	çöker	140
+dinle	136.0	0.074	dinle	1826
+ağaçlan	134.0	0.978	ağaçlan	137
+sev	133.0	0.021	sev	6297
+sus	129.0	0.194	sus	665
+ye	118.0	0.034	ye	3477
+ısla	117.0	0.415	ısla	282
+gevşe	117.0	0.376	gevşe	311
+yağ	117.0	0.038	yağ	3066
+eğ	115.0	0.109	eğ	1051
+gül	114.0	0.199	gül	572
+kaynaş	113.0	0.218	kaynaş	519
+bilinçlen	111.0	0.694	bilinçlen	160
+bulaş	110.0	0.144	bulaş	766
+aksa	109.0	0.388	aksa	281
+tutukla	106.0	0.03	tutukla	3564
+otla	103.0	0.628	otla	164
+uçur	102.0	0.263	uçur	388
+boğ	100.0	0.118	boğ	845
+aç	100.0	0.004	aç	27274
+dinlen	99.0	0.069	dinlen	1433
+sap	97.0	0.297	sap	327
+din	97.0	0.451	din	215
+koy	96.0	0.011	koy	8531
+yanıl	96.0	0.369	yanıl	260
+sığ	96.0	0.36	sığ	267
+uzlaş	95.0	0.116	uzlaş	820
+yıl	95.0	0.508	yıl	187
+dik	93.0	0.056	dik	1675
+dal	91.0	0.119	dal	763
+parla	89.0	0.144	parla	619
+dolan	88.0	0.209	dolan	421
+bölüş	88.0	0.468	bölüş	188
+dolaş	88.0	0.042	dolaş	2074
+kopar	87.0	0.097	kopar	898
+unut	85.0	0.038	unut	2226
+ara	85.0	0.012	ara	7138
+sikle	80.0	0.988	sikle	81
+kaybet	79.0	0.006	kaybet	12220
+cay	78.0	0.491	cay	159
+uyu	76.0	0.091	uyu	833
+konuş	75.0	0.006	konuş	12610
+karar	75.0	0.275	karar	273
+kamaş	74.0	0.881	kamaş	84
+yayınla	74.0	0.003	yayınla	24354
+kıs	71.0	0.307	kıs	231
+azmet	69.0	0.663	azmet	104
+çarpış	69.0	0.029	çarpış	2394
+imzala	69.0	0.009	imzala	7983
+silahsızlan	68.0	0.376	silahsızlan	181
+tutuş	67.0	0.221	tutuş	303
+söyle	67.0	0.003	söyle	22361
+kabar	66.0	0.332	kabar	199
+tatlan	66.0	0.971	tatlan	68
+ergi	65.0	0.355	ergi	183
+taçlan	65.0	0.915	taçlan	71
+savuş	63.0	0.969	savuş	65
+sulan	62.0	0.969	sulan	64
+teşkilatlan	62.0	0.258	teşkilatlan	240
+yakala	60.0	0.009	yakala	6934
+benimse	60.0	0.021	benimse	2911
+seç	60.0	0.003	seç	21787
+incel	59.0	0.362	incel	163
+kullan	59.0	0.001	kullan	84770
+hareketlen	58.0	1.0	hareketlen	58
+iliş	58.0	0.734	iliş	79
+ayaklan	58.0	0.012	ayaklan	4801
+kalkın	58.0	0.041	kalkın	1417
+gerile	57.0	0.06	gerile	946
+uğraş	54.0	0.018	uğraş	3031
+em	53.0	0.04	em	1336
+yayımla	52.0	0.004	yayımla	14510
+sök	52.0	0.078	sök	664
+sevin	52.0	0.2	sevin	260
+terle	52.0	0.261	terle	199
+izle	51.0	0.005	izle	11219
+damla	51.0	0.52	damla	98
+yüz	48.0	0.028	yüz	1692
+es	48.0	0.142	es	337
+dokun	47.0	0.041	dokun	1149
+boz	47.0	0.011	boz	4109
+taşı	47.0	0.002	taşı	23340
+heyecanlan	47.0	1.0	heyecanlan	47
+sinirlen	46.0	1.0	sinirlen	46
+kıl	46.0	0.017	kıl	2699
+çağır	46.0	0.022	çağır	2114
+sun	45.0	0.004	sun	12428
+de	45.0	0.002	de	28370
+geçin	45.0	0.089	geçin	503
+şenlen	45.0	0.833	şenlen	54
+çiftleş	45.0	0.064	çiftleş	704
+endişelen	44.0	0.233	endişelen	189
+apar	44.0	0.415	apar	106
+geçir	44.0	0.002	geçir	21676
+bırak	43.0	0.002	bırak	17664
+kaldır	42.0	0.006	kaldır	7309
+kaydet	42.0	0.005	kaydet	7646
+ağla	41.0	0.058	ağla	713
+öde	40.0	0.016	öde	2472
+şiddetlen	39.0	0.198	şiddetlen	197
+sıçra	39.0	0.062	sıçra	632
+uygula	39.0	0.004	uygula	9182
+alevlen	38.0	0.245	alevlen	155
+yüreklen	37.0	0.925	yüreklen	40
+çök	37.0	0.017	çök	2203
+yak	36.0	0.013	yak	2853
+barış	36.0	0.159	barış	227
+öfkelen	35.0	0.183	öfkelen	191
+çimlen	35.0	0.238	çimlen	147
+saç	35.0	0.059	saç	592
+seyrel	35.0	0.636	seyrel	55
+onayla	35.0	0.016	onayla	2122
+alçal	33.0	0.114	alçal	289
+zehirle	33.0	0.039	zehirle	838
+onar	33.0	0.047	onar	696
+değ	33.0	0.011	değ	2896
+vur	33.0	0.006	vur	5980
+coş	32.0	0.352	coş	91
+fışkır	32.0	0.232	fışkır	138
+akset	32.0	0.711	akset	45
+kaz	32.0	0.051	kaz	623
+koşuş	31.0	0.838	koşuş	37
+uyuş	31.0	0.092	uyuş	338
+tat	31.0	0.16	tat	194
+bahset	31.0	0.008	bahset	3989
+utan	30.0	0.171	utan	175
+as	30.0	0.019	as	1577
+yarış	29.0	0.011	yarış	2656
+tırman	29.0	0.035	tırman	835
+kara	28.0	0.683	kara	41
+bağla	28.0	0.003	bağla	9866
+delir	28.0	0.194	delir	144
+esne	28.0	0.25	esne	112
+titre	28.0	0.117	titre	240
+aşır	28.0	0.491	aşır	57
+dök	27.0	0.01	dök	2761
+yeşillen	27.0	0.675	yeşillen	40
+it	27.0	0.022	it	1248
+çiz	27.0	0.008	çiz	3547
+düzenle	27.0	0.001	düzenle	23552
+acı	27.0	0.103	acı	263
+serinle	26.0	0.419	serinle	62
+var	26.0	0.002	var	10454
+ekle	26.0	0.004	ekle	6476
+gücen	26.0	0.433	gücen	60
+çevir	26.0	0.007	çevir	3687
+boya	25.0	0.03	boya	847
+geçiş	25.0	0.714	geçiş	35
+ol	25.0	0.0	ol	725240
+sek	25.0	0.124	sek	201
+bul	24.0	0.001	bul	19054
+vasıflan	24.0	0.96	vasıflan	25
+yuvarla	24.0	0.075	yuvarla	319
+göm	24.0	0.011	göm	2117
+nemlen	24.0	0.632	nemlen	38
+tamamla	24.0	0.002	tamamla	14867
+şımar	23.0	0.742	şımar	31
+sersemle	23.0	0.639	sersemle	36
+sez	23.0	0.146	sez	157
+bürün	23.0	0.039	bürün	591
+çatla	22.0	0.148	çatla	149
+ger	22.0	0.028	ger	772
+kazı	22.0	0.109	kazı	202
+eriş	22.0	0.012	eriş	1803
+kıskan	22.0	0.079	kıskan	277
+kon(I)	22.0	0.004	kon(I)	5075
+titreş	22.0	0.202	titreş	109
+kana	22.0	0.027	kana	802
+hapset	21.0	0.031	hapset	671
+kaçır	21.0	0.008	kaçır	2482
+affet	21.0	0.033	affet	645
+tak	21.0	0.017	tak	1217
+ağar	21.0	0.266	ağar	79
+dövüş	21.0	0.05	dövüş	417
+edin	20.0	0.006	edin	3609
+bit	20.0	0.003	bit	6143
+bez	20.0	0.476	bez	42
+çökel	20.0	0.225	çökel	89
+çekiş	19.0	0.019	çekiş	990
+kır	19.0	0.004	kır	5081
+sil	19.0	0.015	sil	1236
+beğen	18.0	0.011	beğen	1690
+ever	18.0	0.107	ever	168
+yanaş	18.0	0.042	yanaş	433
+bulan	18.0	1.0	bulan	18
+çıldır	18.0	0.092	çıldır	196
+isle	17.0	0.354	isle	48
+bitiş	17.0	0.405	bitiş	42
+bastır	17.0	1.0	bastır	17
+eski	17.0	0.09	eski	189
+dalgalan	16.0	0.047	dalgalan	343
+kaygılan	16.0	0.271	kaygılan	59
+gönder	15.0	0.001	gönder	14056
+kuşkulan	15.0	0.099	kuşkulan	152
+ekşi	15.0	0.341	ekşi	44
+kızış	15.0	0.192	kızış	78
+gölgelen	15.0	1.0	gölgelen	15
+bula	15.0	0.052	bula	289
+doğur	15.0	0.01	doğur	1443
+elle	15.0	0.789	elle	19
+kus	15.0	0.049	kus	307
+naklet	15.0	0.018	naklet	832
+yükle	14.0	0.007	yükle	2061
+benzeş	14.0	0.115	benzeş	122
+neşelen	14.0	0.7	neşelen	20
+döv	14.0	0.012	döv	1180
+atış	14.0	0.132	atış	106
+bileş	14.0	0.378	bileş	37
+körel	13.0	0.178	körel	73
+telaşlan	13.0	0.317	telaşlan	41
+çak	13.0	0.041	çak	314
+doğrula	13.0	0.011	doğrula	1204
+gör	13.0	0.0	gör	49930
+azlet	13.0	0.019	azlet	693
+çözün	13.0	0.019	çözün	676
+kırbaçla	12.0	0.245	kırbaçla	49
+incele	12.0	0.002	incele	7693
+kov	12.0	0.01	kov	1178
+görüş	12.0	0.009	görüş	1382
+ada	12.0	0.009	ada	1280
+çöz	11.0	0.003	çöz	3471
+döşe	11.0	0.024	döşe	449
+temizle	11.0	0.008	temizle	1397
+bak	11.0	0.001	bak	8503
+katlet	11.0	0.015	katlet	732
+kıy	11.0	0.033	kıy	338
+mele	11.0	0.423	mele	26
+az	11.0	0.075	az	146
+belle	11.0	0.423	belle	26
+iv	11.0	0.019	iv	570
+ez	10.0	0.012	ez	807
+bağışla	10.0	0.012	bağışla	861
+bağır	10.0	0.018	bağır	544
+küs	10.0	0.137	küs	73
+oyla	10.0	0.008	oyla	1284
+örtüş	10.0	0.032	örtüş	308
+savaş	10.0	0.002	savaş	4037
+gülümse	10.0	0.056	gülümse	178
+yeşer	10.0	0.115	yeşer	87
+duygulan	10.0	0.323	duygulan	31
+yağmala	9.0	0.01	yağmala	899
+köpür	9.0	0.205	köpür	44
+ferahla	9.0	0.529	ferahla	17
+tüt	9.0	0.214	tüt	42
+dikleş	9.0	0.409	dikleş	22
+kıpırda	9.0	0.143	kıpırda	63
+ısın	9.0	0.011	ısın	828
+çoksa	9.0	1.0	çoksa	9
+ısır	9.0	0.021	ısır	420
+yenile	9.0	0.004	yenile	2360
+ağrı	9.0	0.281	ağrı	32
+neticelen	9.0	0.138	neticelen	65
+yut	9.0	0.019	yut	473
+sat	8.0	0.001	sat	15249
+anlat	8.0	0.001	anlat	13206
+say	8.0	0.001	say	8848
+sorgula	8.0	0.006	sorgula	1239
+sakın	8.0	0.039	sakın	204
+dağıt	8.0	0.003	dağıt	3126
+çakış	8.0	0.03	çakış	264
+durakla	8.0	0.033	durakla	240
+gururlan	8.0	0.5	gururlan	16
+sar	8.0	0.004	sar	1817
+tara	8.0	0.025	tara	320
+inle	8.0	0.136	inle	59
+hastalan	8.0	0.016	hastalan	487
+defnet	8.0	0.007	defnet	1110
+tutun	8.0	0.012	tutun	691
+mevzilen	7.0	0.072	mevzilen	97
+feshet	7.0	0.009	feshet	796
+ertele	7.0	0.009	ertele	799
+ürper	7.0	0.438	ürper	16
+katış	7.0	0.778	katış	9
+kapla	7.0	0.003	kapla	2193
+çiğne	7.0	0.018	çiğne	394
+ezberle	7.0	0.042	ezberle	165
+üşü	7.0	0.104	üşü	67
+sol	7.0	0.019	sol	374
+parçala	7.0	0.004	parçala	1808
+ayıl	7.0	0.121	ayıl	58
+gir	7.0	0.0	gir	39841
+ucuzla	7.0	0.179	ucuzla	39
+kabullen	7.0	0.02	kabullen	347
+genleş	7.0	0.051	genleş	137
+kutuplaş	7.0	0.082	kutuplaş	85
+seyret	7.0	0.008	seyret	931
+ör	6.0	0.011	ör	539
+güven	6.0	0.007	güven	915
+hırslan	6.0	0.5	hırslan	12
+buruş	6.0	0.4	buruş	15
+iste	6.0	0.0	iste	22072
+tokuş	6.0	0.6	tokuş	10
+sor	6.0	0.003	sor	2282
+lezzetlen	6.0	0.667	lezzetlen	9
+ufal	6.0	0.375	ufal	16
+hançerle	6.0	0.188	hançerle	32
+tasarla	6.0	0.001	tasarla	5128
+harca	6.0	0.003	harca	1876
+üleş	6.0	1.0	üleş	6
+seğir	6.0	0.353	seğir	17
+bık	6.0	0.042	bık	143
+esinlen	6.0	1.0	esinlen	6
+süslen	6.0	1.0	süslen	6
+diz	6.0	0.007	diz	808
+kokla	5.0	0.056	kokla	90
+salgıla	5.0	0.009	salgıla	582
+belirt	5.0	1.0	belirt	5
+sağla	5.0	0.0	sağla	32742
+göçer	5.0	1.0	göçer	5
+tanıt	5.0	1.0	tanıt	5
+gıcırda	5.0	0.357	gıcırda	14
+heveslen	5.0	0.357	heveslen	14
+sok	5.0	0.002	sok	2608
+tiksin	5.0	0.135	tiksin	37
+düşür	5.0	0.002	düşür	3077
+sula	5.0	0.003	sula	1727
+paslan	5.0	0.085	paslan	59
+yasakla	5.0	0.002	yasakla	2439
+boşa	5.0	0.003	boşa	1610
+yorumla	4.0	0.002	yorumla	2525
+haczet	4.0	0.211	haczet	19
+sün	4.0	0.129	sün	31
+sık	4.0	0.014	sık	288
+uçukla	4.0	0.8	uçukla	5
+düze	4.0	0.222	düze	18
+devret	4.0	0.003	devret	1454
+keyiflen	4.0	1.0	keyiflen	4
+sığın	4.0	0.003	sığın	1404
+öp	4.0	0.011	öp	350
+sürü	4.0	0.028	sürü	142
+tıkla	4.0	0.015	tıkla	259
+kokulan	4.0	1.0	kokulan	4
+düzle	4.0	0.2	düzle	20
+giyin	4.0	0.012	giyin	344
+oy	4.0	0.007	oy	584
+irkil	4.0	0.138	irkil	29
+solu	4.0	0.044	solu	90
+tekrarla	4.0	0.003	tekrarla	1270
+öt	4.0	0.043	öt	93
+faydalan	4.0	0.004	faydalan	1106
+kökleş	4.0	0.108	kökleş	37
+del	4.0	0.002	del	1971
+sesle	4.0	0.8	sesle	5
+şakla	4.0	0.5	şakla	8
+yan	4.0	0.002	yan	2433
+odaklaş	4.0	0.25	odaklaş	16
+zannet	4.0	0.009	zannet	458
+keşfet	4.0	0.001	keşfet	5040
+ılı	4.0	0.267	ılı	15
+kavra	4.0	0.006	kavra	720
+kaynaklan	4.0	0.002	kaynaklan	2503
+usan	4.0	0.063	usan	63
+yargıla	4.0	0.002	yargıla	2246
+zıpla	4.0	0.02	zıpla	198
+ışı	4.0	0.009	ışı	434
+haberleş	4.0	0.005	haberleş	728
+marjinalleş	4.0	0.4	marjinalleş	10
+kotar	3.0	0.071	kotar	42
+açın	3.0	1.0	açın	3
+hopla	3.0	0.107	hopla	28
+şişmanla	3.0	0.231	şişmanla	13
+bereketlen	3.0	1.0	bereketlen	3
+özümse	3.0	0.033	özümse	92
+imren	3.0	0.13	imren	23
+dilen	3.0	1.0	dilen	3
+sarar	3.0	0.045	sarar	67
+hazmet	3.0	0.081	hazmet	37
+tıngırda	3.0	0.75	tıngırda	4
+yaşar	3.0	0.071	yaşar	42
+sürün	3.0	1.0	sürün	3
+kırış	3.0	0.273	kırış	11
+çözüş	3.0	0.75	çözüş	4
+ene	3.0	0.75	ene	4
+yamul	3.0	0.3	yamul	10
+kapış	3.0	0.036	kapış	83
+uslan	3.0	0.075	uslan	40
+kımılda	3.0	0.091	kımılda	33
+yadırga	3.0	0.042	yadırga	72
+pisle	3.0	0.333	pisle	9
+ciltle	3.0	0.2	ciltle	15
+hortla	3.0	0.176	hortla	17
+kişne	3.0	0.333	kişne	9
+sürt	3.0	0.031	sürt	97
+soy	3.0	0.008	soy	394
+aş	3.0	0.001	aş	2807
+araştır	3.0	0.0	araştır	14192
+sahnele	3.0	0.002	sahnele	1974
+süsle	3.0	0.002	süsle	1333
+böl	3.0	0.001	böl	4705
+uyar	3.0	0.002	uyar	1231
+çatış	3.0	0.001	çatış	5101
+denetle	3.0	0.002	denetle	1217
+şüphelen	3.0	0.01	şüphelen	300
+boşalt	3.0	0.003	boşalt	1012
+ata	3.0	0.0	ata	7392
+yasa	3.0	0.028	yasa	108
+kesiş	3.0	0.004	kesiş	667
+tık	2.0	0.059	tık	34
+ek	2.0	0.004	ek	496
+süz	2.0	0.004	süz	460
+dağla	2.0	0.118	dağla	17
+iç	2.0	0.001	iç	1572
+şahlan	2.0	0.111	şahlan	18
+afalla	2.0	0.1	afalla	20
+yolla	2.0	0.002	yolla	1314
+devin	2.0	0.051	devin	39
+tınla	2.0	0.1	tınla	20
+ispatla	2.0	0.003	ispatla	574
+değin	2.0	0.003	değin	723
+konakla	2.0	0.003	konakla	601
+donat	2.0	0.002	donat	1064
+dola	2.0	0.056	dola	36
+geber	2.0	0.125	geber	16
+sürükle	2.0	0.002	sürükle	1007
+sigortala	2.0	0.067	sigortala	30
+iğren	2.0	0.062	iğren	32
+duyumsa	2.0	0.057	duyumsa	35
+kudur	2.0	0.125	kudur	16
+vazgeçir	2.0	0.02	vazgeçir	98
+bestele	2.0	0.001	bestele	2635
+etkile	2.0	0.0	etkile	8318
+güneşlen	2.0	1.0	güneşlen	2
+yassıl	2.0	1.0	yassıl	2
+uzat	2.0	1.0	uzat	2
+somur	2.0	1.0	somur	2
+kaşan	2.0	1.0	kaşan	2
+kaşın	2.0	1.0	kaşın	2
+ümitlen	2.0	1.0	ümitlen	2
+hararetlen	2.0	0.667	hararetlen	3
+şenel	2.0	0.667	şenel	3
+alakalan	2.0	0.667	alakalan	3
+yarat	2.0	0.0	yarat	11063
+yönet	2.0	0.0	yönet	10439
+hislen	2.0	0.4	hislen	5
+depreş	2.0	0.143	depreş	14
+yay	2.0	0.0	yay	6234
+ele	2.0	0.0	ele	5731
+semir	2.0	0.286	semir	7
+gocun	2.0	0.25	gocun	8
+rastla	2.0	0.0	rastla	4925
+götür	2.0	0.0	götür	4172
+engelle	2.0	0.001	engelle	3855
+sakla	2.0	0.001	sakla	3158
+darbet	2.0	0.2	darbet	10
+artır	2.0	0.001	artır	3002
+balla	2.0	0.154	balla	13
+kovala	2.0	0.006	kovala	346
+yığ	2.0	0.004	yığ	448
+tüylen	2.0	0.083	tüylen	24
+yükseltgen	2.0	0.017	yükseltgen	121
+taşla	2.0	0.008	taşla	245
+duraksa	2.0	0.035	duraksa	57
+kümelen	2.0	0.025	kümelen	79
+soyun	2.0	0.009	soyun	216
+kutsa	2.0	0.007	kutsa	301
+çınla	2.0	0.037	çınla	54
+kilitle	2.0	0.007	kilitle	292
+güreş	2.0	0.007	güreş	268
+sıyır	2.0	0.04	sıyır	50
+ışılda	2.0	0.027	ışılda	75
+üslen	2.0	0.016	üslen	122
+doy	2.0	0.008	doy	245
+sapla	2.0	0.006	sapla	315
+doku	2.0	0.025	doku	79
+zedele	2.0	0.009	zedele	216
+uyarla	1.0	0.0	uyarla	3944
+eyle	1.0	0.006	eyle	168
+davran	1.0	0.0	davran	5163
+yudumla	1.0	0.167	yudumla	6
+serp	1.0	0.005	serp	210
+duyur	1.0	0.0	duyur	3141
+kurtar	1.0	0.0	kurtar	5212
+bile	1.0	0.013	bile	79
+ihtiyarla	1.0	0.091	ihtiyarla	11
+darıl	1.0	0.111	darıl	9
+tartış	1.0	0.0	tartış	6327
+üstlen	1.0	0.0	üstlen	7013
+sürç	1.0	0.091	sürç	11
+demirle	1.0	0.007	demirle	152
+boğuş	1.0	0.005	boğuş	212
+hesapla	1.0	0.0	hesapla	2864
+karşıla	1.0	0.0	karşıla	5146
+puslan	1.0	0.143	puslan	7
+bayatla	1.0	0.143	bayatla	7
+dirilt	1.0	0.006	dirilt	181
+cisimlen	1.0	0.1	cisimlen	10
+evril	1.0	0.005	evril	187
+reddet	1.0	0.0	reddet	4219
+öpüş	1.0	0.005	öpüş	186
+kibirlen	1.0	0.111	kibirlen	9
+vazet	1.0	0.1	vazet	10
+akıt	1.0	0.005	akıt	206
+tanıtla	1.0	0.014	tanıtla	69
+aksır	1.0	0.2	aksır	5
+yoğur	1.0	0.013	yoğur	75
+hüzünlen	1.0	0.1	hüzünlen	10
+aktar	1.0	0.0	aktar	3721
+şişle	1.0	0.125	şişle	8
+gezin	1.0	0.006	gezin	176
+kurgula	1.0	0.003	kurgula	345
+kıvılcımlan	1.0	0.25	kıvılcımlan	4
+ürü	1.0	0.25	ürü	4
+sokuş	1.0	1.0	sokuş	1
+nihayetlen	1.0	0.5	nihayetlen	2
+tart	1.0	0.008	tart	118
+bileyle	1.0	0.5	bileyle	2
+çarpıt	1.0	0.009	çarpıt	117
+neşret	1.0	0.009	neşret	106
+şıngırda	1.0	0.5	şıngırda	2
+pırtla	1.0	1.0	pırtla	1
+zıngırda	1.0	1.0	zıngırda	1
+sızdır	1.0	1.0	sızdır	1
+tomur	1.0	0.25	tomur	4
+atlat	1.0	1.0	atlat	1
+pörtle	1.0	1.0	pörtle	1
+şapırda	1.0	1.0	şapırda	1
+durul	1.0	1.0	durul	1
+hışırda	1.0	1.0	hışırda	1
+kanır	1.0	1.0	kanır	1
+oynat	1.0	1.0	oynat	1
+boşat	1.0	1.0	boşat	1
+takırda	1.0	0.5	takırda	2
+gevre	1.0	0.5	gevre	2
+çıtla	1.0	0.5	çıtla	2
+tıkırda	1.0	0.5	tıkırda	2
+bitir	1.0	0.0	bitir	10277
+koru	1.0	0.0	koru	10293
+eşle	1.0	0.012	eşle	81
+tanımla	1.0	0.0	tanımla	10867
+ocu	1.0	0.333	ocu	3
+mürekkeple	1.0	0.333	mürekkeple	3
+seviş	1.0	0.007	seviş	151
+doğ	1.0	0.0	doğ	14134
+sansürle	1.0	0.007	sansürle	149
+selamla	1.0	0.007	selamla	144
+resimle	1.0	0.008	resimle	126
+kederlen	1.0	0.333	kederlen	3
+yağla	1.0	0.008	yağla	125
+kal	1.0	0.0	kal	49000
+kışla	1.0	0.011	kışla	89
+pürüzlen	1.0	0.5	pürüzlen	2
+damgala	1.0	0.011	damgala	89
+pulla	1.0	0.077	pulla	13
+kutla	1.0	0.0	kutla	2679
+tep	1.0	0.004	tep	229
+acık	1.0	0.03	acık	33
+özetle	1.0	0.002	özetle	647
+yuhala	1.0	0.027	yuhala	37
+taşın	1.0	0.027	taşın	37
+kıvran	1.0	0.021	kıvran	48
+parılda	1.0	0.021	parılda	48
+korkut	1.0	0.003	korkut	306
+öv	1.0	0.001	öv	717
+yapraklan	1.0	0.02	yapraklan	50
+çatallan	1.0	0.03	çatallan	33
+bocala	1.0	0.018	bocala	55
+biç	1.0	0.003	biç	303
+resmet	1.0	0.001	resmet	756
+aydınlan	1.0	0.001	aydınlan	768
+bombala	1.0	0.001	bombala	828
+batır	1.0	0.001	batır	838
+yit	1.0	0.032	yit	31
+ört	1.0	0.001	ört	923
+meylet	1.0	0.033	meylet	30
+yar	1.0	0.002	yar	629
+kalkış	1.0	0.003	kalkış	325
+doğrul	1.0	0.027	doğrul	37
+işit	1.0	0.002	işit	549
+kucaklaş	1.0	0.023	kucaklaş	44
+kıvır	1.0	0.023	kıvır	43
+horla	1.0	0.024	horla	42
+yumurtla	1.0	0.003	yumurtla	362
+bur	1.0	0.003	bur	390
+beze	1.0	0.002	beze	422
+tap	1.0	0.002	tap	427
+belgele	1.0	0.002	belgele	434
+gerçekle	1.0	0.024	gerçekle	42
+tıka	1.0	0.003	tıka	338
+dışla	1.0	0.002	dışla	451
+aşağıla	1.0	0.002	aşağıla	456
+asfaltla	1.0	0.022	asfaltla	46
+yatır	1.0	0.002	yatır	470
+önemse	1.0	0.003	önemse	334
+üz	1.0	0.002	üz	496
+uçuş	1.0	0.021	uçuş	47
+gürle	1.0	0.033	gürle	30
+vuruş	1.0	0.036	vuruş	28
+nikâhla	1.0	0.071	nikâhla	14
+ölç	1.0	0.0	ölç	2238
+avla	1.0	0.001	avla	1763
+mayınla	1.0	0.059	mayınla	17
+örgütle	1.0	0.001	örgütle	1829
+kanıtla	1.0	0.001	kanıtla	1906
+özle	1.0	0.004	özle	242
+algıla	1.0	0.0	algıla	2160
+tozlan	1.0	0.062	tozlan	16
+yıpran	1.0	0.004	yıpran	236
+aşıla	1.0	0.004	aşıla	234
+sızla	1.0	0.037	sızla	27
+yat	1.0	0.0	yat	2287
+vazgeç	1.0	0.0	vazgeç	2359
+kamplaş	1.0	0.067	kamplaş	15
+eleştir	1.0	0.0	eleştir	2514
+içir	1.0	0.016	içir	64
+işe	1.0	0.023	işe	44
+zorla	1.0	0.0	zorla	2736
+çatırda	1.0	0.071	çatırda	14
+dene	1.0	0.001	dene	1615
+çeliş	1.0	0.004	çeliş	245
+betimle	1.0	0.001	betimle	1339
+gözük	1.0	0.001	gözük	1337
+hakket	1.0	0.037	hakket	27
+karıncalan	1.0	0.037	karıncalan	27
+büzüş	1.0	0.038	büzüş	26
+tartakla	1.0	0.038	tartakla	26
+özümle	1.0	0.038	özümle	26
+gizle	1.0	0.001	gizle	1088
+ayarla	1.0	0.001	ayarla	1186
+mühürle	1.0	0.01	mühürle	96
+parselle	1.0	0.043	parselle	23
+çerçevele	1.0	0.043	çerçevele	23
+yavrula	1.0	0.017	yavrula	59
+zincirle	1.0	0.017	zincirle	59
+tüken	1.0	0.001	tüken	1331
+katet	1.0	0.004	katet	256
+boğazla	1.0	0.05	boğazla	20
+yalanla	1.0	0.004	yalanla	248
+zımparala	1.0	0.053	zımparala	19
+tıkış	1.0	1.0	tıkış	1
+			i	88483
+			gel	73048
+			göster	41322
+			geç	38235
+			kat	32003
+			git	26060
+			alın	23766
+			açıkla	15327
+			düş	13880
+			savun	13578
+			içer	12414
+			belirle	10707
+			yen(II)	10059
+			başar	9065
+			anlaş	8472
+			an	8205
+			duy	8131
+			destekle	7341
+			öğren	7170
+			kaç	7050
+			kurtul	6588
+			görün	5969
+			kuşat	5082
+			sergile	5031
+			planla	4837
+			besle	4767
+			uç	4567
+			kapsa	4514
+			sırala	4294
+			anla	3911
+			ak	3391
+			öner	3294
+			çevril	3264
+			dağıl	3212
+			kalk	3103
+			diren	3050
+			yitir	2887
+			suçla	2774
+			san	2669
+			önle	2631
+			yarala	2582
+			tüket	2294
+			giriş	2256
+			kaybol	2207
+			derle	2158
+			kirala	2125
+			yönlendir	2026
+			sapta	2016
+			öngör	2007
+			çağrıl	1927
+			başvur	1922
+			amaçla	1837
+			gözlemle	1822
+			gözle	1789
+			esinle	1707
+			vurgula	1636
+			takıl	1635
+			öğret	1536
+			fethet	1516
+			ilet	1486
+			kork	1447
+			depola	1396
+			yet	1354
+			kısıtla	1312
+			hedefle	1307
+			kop	1260
+			emret	1249
+			odakla	1223
+			pazarla	1210
+			soruştur	1194
+			yara	1174
+			bat	1171
+			programla	1137
+			gider	1136
+			pişir	1135
+			tepki	1038
+			varsay	1024
+			kaçın	1014
+			sınırla	1006
+			eğit	982
+			aydınlat	982
+			andır	979
+			ısıt	969
+			güncelle	961
+			devral	934
+			dile	915
+			ateşle	884
+			çözümle	872
+			ünle	863
+			hoşlan	861
+			görüntüle	810
+			kodla	799
+			ilişkilendir	765
+			şifrele	745
+			um	744
+			simgele	733
+			karşılaştır	731
+			çevrele	719
+			yıka	708
+			sakatla	703
+			güt	686
+			devril	662
+			devir	650
+			göç	647
+			indirge	636
+			sars	635
+			boşal	629
+			toparla	587
+			çekin	583
+			katlan	581
+			kastet	571
+			kıyasla	552
+			noktala	534
+			işaretle	517
+			hükmet	510
+			nitele	509
+			atfet	506
+			kopyala	489
+			ser	470
+			sına	470
+			salla	466
+			tetikle	466
+			aldat	461
+			piş	450
+			yum	448
+			kaydol	445
+			bük	442
+			yinele	441
+			gözet	441
+			kına	436
+			yetin	427
+			daral	423
+			soğu	411
+			sürtün	410
+			kas	384
+			düğ	381
+			soyutla	379
+			tapın	378
+			dengele	368
+			sıkıl	367
+			yazış	365
+			harmanla	361
+			yor	358
+			ağırla	351
+			dölle	349
+			gözetle	344
+			soğut	341
+			modelle	336
+			taş	333
+			soğur	327
+			kışkırt	307
+			irdele	304
+			hizala	304
+			nişanla	304
+			şiş	299
+			yardımlaş	298
+			sark	293
+			alla	290
+			arıt	287
+			yalvar	277
+			örnekle	266
+			silk	262
+			küçümse	257
+			öğüt	256
+			sınıfla	254
+			bayıl	254
+			salıver	249
+			çabala	249
+			yakın	249
+			kıvrıl	248
+			yırt	248
+			zikret	243
+			tertiple	235
+			hallet	233
+			akla	231
+			zamanla	230
+			sı	226
+			kazın	225
+			paketle	224
+			danış	217
+			abart	216
+			sıyrıl	214
+			tiple	211
+			oksitle	210
+			diril	206
+			dür	205
+			yalıt	204
+			haşla	203
+			yeğle	202
+			üfle	201
+			ayıkla	201
+			lağvet	200
+			bıçakla	190
+			lanetle	189
+			yu	189
+			damıt	188
+			buyur	187
+			hesaplaş	186
+			süpür	185
+			garantile	183
+			kirlet	183
+			başkaldır	181
+			emzir	181
+			takın	179
+			yıprat	177
+			çırp	177
+			kamulaştır	176
+			yanıtla	176
+			büyüle	173
+			cevapla	172
+			puanla	168
+			eşitle	163
+			sömür	162
+			arzula	161
+			oyala	158
+			katla	158
+			doğra	157
+			sıva	156
+			esirge	156
+			kenetle	152
+			kavur	149
+			sav	148
+			klonla	147
+			yadsı	147
+			kolla	143
+			mayala	142
+			sürtüş	140
+			tamla	138
+			alıkoy	138
+			kok	138
+			etiketle	137
+			daralt	137
+			mektuplaş	134
+			doyur	133
+			ona	132
+			yasla	132
+			becer	131
+			yen(I)	130
+			kovuştur	130
+			kavrul	130
+			cezbet	127
+			haykır	127
+			listele	126
+			pompala	126
+			kırp	125
+			rahatsızlan	124
+			yont	124
+			alkışla	122
+			dizile	120
+			gereksin	120
+			körükle	116
+			ısmarla	116
+			tuzakla	115
+			toprakla	115
+			bahşet	114
+			yer	114
+			karala	113
+			sivril	112
+			savrul	112
+			buy	111
+			etki	111
+			övün	110
+			der	109
+			kuşan	106
+			dala	105
+			addet	103
+			şaş	102
+			mahvet	102
+			değerle	100
+			kundakla	99
+			büz	99
+			kucakla	99
+			zonkla	99
+			yedekle	98
+			doğrult	98
+			incit	98
+			savur	96
+			bunal	96
+			buda	94
+			dayat	94
+			arşivle	94
+			ışınla	94
+			hırpala	93
+			çeşitle	93
+			genelle	93
+			bayılt	92
+			frenle	91
+			filizle	91
+			mumyala	91
+			burk	91
+			tümle	90
+			yakınsa	89
+			uğurla	89
+			hapsol	88
+			çalkala	87
+			daya	87
+			tükür	86
+			eksil	85
+			devşir	84
+			hicvet	84
+			indükle	84
+			istifle	83
+			bert	83
+			yoğrul	83
+			donan	82
+			fırınla	81
+			perçinle	81
+			gölgele	80
+			umursa	78
+			azarla	78
+			turla	77
+			örtün	77
+			şakı	77
+			müjdele	77
+			susa	76
+			kayır	76
+			çel	76
+			kötüle	76
+			ov	75
+			raporla	74
+			şişir	74
+			gübrele	71
+			yala	71
+			fısılda	71
+			taşır	70
+			alıntıla	69
+			yuvala	69
+			göğüsle	68
+			ilaçla	68
+			vakfet	68
+			aşer	67
+			öğütle	66
+			makyajla	65
+			tuzla	65
+			tavla	65
+			kemir	64
+			güneşle	64
+			tanıla	64
+			torpille	64
+			yol	63
+			dilimle	63
+			serpiştir	63
+			eğir	63
+			stokla	62
+			sönümle	61
+			vedalaş	61
+			tazele	61
+			koç	60
+			fotoğrafla	60
+			dona	59
+			sağ	59
+			mahmuzla	59
+			elver	58
+			azımsa	58
+			ikile	57
+			ayart	56
+			yakar	55
+			maskele	55
+			zulmet	54
+			eklemle	54
+			kireçle	54
+			vadet	54
+			arızalan	53
+			çat	53
+			havla	53
+			sırtla	53
+			düşle	53
+			pozla	52
+			bütünle	52
+			ufala	51
+			sataş	51
+			presle	51
+			içerle	51
+			katalogla	51
+			kükre	50
+			yun	50
+			cilala	50
+			ürk	50
+			aldan	50
+			mahvol	50
+			dire	49
+			şişele	49
+			yort	49
+			yankıla	48
+			okşa	48
+			ölçekle	48
+			şükret	48
+			yelten	48
+			melezle	48
+			bölümle	48
+			kurşunla	47
+			ölçüş	46
+			düğümle	46
+			rendele	46
+			bordala	45
+			arala	45
+			tabakla	44
+			demle	44
+			güdümle	44
+			çaprazla	43
+			kümele	43
+			incin	43
+			ıskala	42
+			sarkıt	42
+			dizginle	42
+			kak	41
+			çırpın	41
+			öykün	41
+			lekele	41
+			ürküt	41
+			il	41
+			ulu	40
+			yoksun	40
+			diret	40
+			tüne	40
+			kaşı	40
+			baltala	40
+			tersin	40
+			lehimle	40
+			tekmele	39
+			eksilt	39
+			buna	39
+			fırçala	39
+			montajla	38
+			konumla	38
+			kon(II)	38
+			gev	38
+			ambalajla	38
+			mırıldan	38
+			akaçla	38
+			buzlan	38
+			ıraksa	37
+			büyült	37
+			alıkonul	37
+			perdele	36
+			grupla	36
+			postala	36
+			tomurcuklan	35
+			ölçümle	35
+			tütsüle	34
+			kar	34
+			iğnele	34
+			ayıpla	34
+			sarmala	34
+			düz	34
+			emekle	34
+			harla	33
+			eş	33
+			ota	33
+			kaçış	33
+			palazla	32
+			eğril	32
+			boğumla	32
+			öksür	32
+			kamçıla	31
+			yeniş	31
+			tırmala	31
+			evir	31
+			mıknatıslan	31
+			bun	30
+			avut	30
+			sabırsızlan	30
+			sayıkla	30
+			tasla	30
+			mükâfatlandır	30
+			beyazlat	29
+			gıdıkla	29
+			sabret	29
+			pus	29
+			doluş	29
+			tökezle	29
+			kokuş	28
+			didiş	28
+			yed	28
+			uslamla	27
+			yokla	27
+			sın	27
+			methet	26
+			hapşır	26
+			çömel	26
+			yumrukla	26
+			yama	26
+			gagala	26
+			defet	25
+			ötele	25
+			tohumla	25
+			tokatla	25
+			çivile	25
+			küfret	25
+			buğula	25
+			eşele	25
+			ban	25
+			söv	25
+			sıfırla	24
+			yutkun	24
+			kekele	24
+			imle	24
+			deş	24
+			dürt	24
+			açkıla	24
+			kurcala	23
+			törpüle	23
+			ortala	23
+			örsele	23
+			hecele	23
+			sendele	23
+			katıl	23
+			çıkış	23
+			uyukla	23
+			vazifelendir	23
+			zıtlaş	23
+			hasret	22
+			gecele	22
+			dörtle	22
+			hikâyele	22
+			terasla	22
+			bulgula	21
+			alar	21
+			vergile	21
+			ay	21
+			panikle	21
+			böbürlen	20
+			artakal	20
+			közle	20
+			dil	20
+			yükseltge	20
+			göçür	20
+			tezgâhla	20
+			ihtisaslaş	20
+			üstele	20
+			çalımla	20
+			didin	20
+			kanıksa	20
+			paslaş	20
+			dadan	19
+			kert	19
+			hayıflan	19
+			kelepçele	19
+			akdet	19
+			bürü	19
+			selamlaş	19
+			yalpala	19
+			azlolun	19
+			avun	19
+			dosyala	19
+			paralelleştir	19
+			öyküle	18
+			silkin	18
+			sıvazla	18
+			sivrilt	18
+			yaldızla	18
+			ıh	18
+			özdeştir	18
+			nicele	18
+			sevdalan	18
+			göze	18
+			defol	18
+			söyleş	17
+			dalaş	17
+			bakın	17
+			süblimleş	17
+			kalıpla	17
+			böğür	17
+			numarala	17
+			ula	17
+			miyavla	17
+			haddele	17
+			sezinle	17
+			gülüş	17
+			şakalaş	16
+			külle	16
+			bunalt	16
+			çekil	16
+			çullan	16
+			öncele	16
+			dinamitle	16
+			homurdan	15
+			tersle	15
+			bayramlaş	15
+			yetir	15
+			ağ	15
+			yaftala	14
+			sayımla	14
+			morar	14
+			silkele	14
+			fişle	14
+			doğaçla	14
+			hıçkır	14
+			bozuş	14
+			bodosla	14
+			oranla	14
+			solla	14
+			kahret	13
+			boşla	13
+			hırla	13
+			yon	13
+			hatmet	13
+			sırıt	13
+			dit	13
+			bandır	13
+			menet	13
+			kırk	13
+			tuşla	13
+			takış	13
+			topaklan	13
+			üşüş	13
+			itiş	12
+			saçmala	12
+			geğir	12
+			formatla	12
+			kıllan	12
+			tamponla	12
+			suvar	12
+			ispiyonla	12
+			küflen	12
+			kahrol	12
+			yemle	12
+			perdahla	12
+			oynaş	12
+			yaraş	12
+			hiddetlen	12
+			kurula	12
+			üsten	11
+			sallandır	11
+			rüzgârla	11
+			haydala	11
+			on	11
+			süngüle	11
+			çeşnile	11
+			itekle	11
+			gönen	11
+			garipse	11
+			sırla	11
+			kazıkla	11
+			kefenle	11
+			toz	11
+			köhne	11
+			hallol	11
+			endeksle	11
+			ovuştur	11
+			dinel	10
+			berkit	10
+			körlen	10
+			üfür	10
+			kutula	10
+			sağalt	10
+			ornat	10
+			tokalaş	10
+			sayfala	10
+			vahyolun	10
+			defnolun	10
+			durula	10
+			bulutlan	10
+			klorla	10
+			bağrış	10
+			alazla	10
+			markala	10
+			nakşet	10
+			topalla	10
+			ütüle	10
+			mimle	10
+			akortla	10
+			tepele	10
+			kalayla	10
+			dertleş	10
+			bört	10
+			debelen	10
+			fiyatla	10
+			bekin	10
+			çığır	9
+			zırhlan	9
+			pohpohla	9
+			tısla	9
+			ovala	9
+			köstekle	9
+			kamala	9
+			vidala	9
+			tasarımla	9
+			ilikle	9
+			rastlaş	9
+			savla	9
+			ayakla	9
+			didikle	9
+			mıhla	9
+			değir	9
+			adımla	9
+			hazzet	9
+			ofla	9
+			tortulan	9
+			zırhlandır	9
+			antlaş	9
+			dövün	9
+			acındır	9
+			vakumla	9
+			boyla	9
+			affolun	8
+			üşen	8
+			anıştır	8
+			bay	8
+			bakış	8
+			tekle	8
+			uğulda	8
+			evetle	8
+			nasbet	8
+			peydahla	8
+			sıvış	8
+			eğle	8
+			başka	8
+			ıslıkla	8
+			lütfet	8
+			uzaksa	8
+			çoğulla	8
+			helalleş	8
+			vernikle	8
+			tepin	8
+			kıkırda	8
+			yarıla	8
+			yayla	8
+			imgele	8
+			cızla	8
+			birle	8
+			ılga	8
+			ebele	8
+			güdüle	8
+			kumla	8
+			irk	8
+			makasla	8
+			sayış	8
+			astarla	7
+			ıkın	7
+			oydaş	7
+			dizinle	7
+			inatlaş	7
+			balyala	7
+			süs	7
+			çalka	7
+			sonla	7
+			pençeleş	7
+			omuzla	7
+			okla	7
+			patakla	7
+			tıraşla	7
+			yığış	7
+			pıs	7
+			süratlen	7
+			azıt	7
+			vızılda	7
+			yumruklaş	7
+			frezele	7
+			cepheleş	6
+			hakla	6
+			yas	6
+			malala	6
+			çap	6
+			tembihle	6
+			sabahla	6
+			galvanizle	6
+			hidrojenle	6
+			çav	6
+			torbala	6
+			eğele	6
+			çiftle	6
+			kırın	6
+			kokut	6
+			bekleş	6
+			payla	6
+			soluklan	6
+			bele	6
+			budaklan	6
+			faksla	6
+			faturala	6
+			başakla	6
+			üt	6
+			küfürleş	6
+			çöreklen	6
+			gümrükle	6
+			berele	6
+			çağ	6
+			ged	6
+			ilen	6
+			çim	6
+			öğür	6
+			çekiçle	6
+			pudrala	6
+			ulula	6
+			çağla	6
+			iletiş	6
+			jurnalle	6
+			yellen	6
+			sancılan	6
+			bantla	6
+			yansıla	6
+			sargıla	6
+			yaylan	6
+			gerin	6
+			gevele	6
+			yağmurla	6
+			kaytar	6
+			koyult	5
+			halkala	5
+			tutkalla	5
+			kükürtle	5
+			denkle	5
+			bırakış	5
+			hayla	5
+			özdeşle	5
+			sarmaş	5
+			çisele	5
+			tapula	5
+			gammazla	5
+			koca	5
+			esri	5
+			koyver	5
+			üçle	5
+			mumla	5
+			deneyle	5
+			yangılan	5
+			sapıt	5
+			yamal	5
+			sobele	5
+			itele	5
+			ırgan	5
+			çelikle	5
+			katranla	5
+			neşrolun	5
+			çapala	5
+			randevulaş	5
+			gasbet	5
+			savul	5
+			çöğ	5
+			dercet	5
+			nalla	5
+			yalazla	5
+			dürtükle	5
+			sanç	5
+			tasalan	4
+			rampala	4
+			kızakla	4
+			yel	4
+			efsunla	4
+			tın	4
+			sepile	4
+			ut	4
+			kılıfla	4
+			kabuklan	4
+			ayrımla	4
+			nazlan	4
+			nakışla	4
+			biliş	4
+			hükmolun	4
+			kırpış	4
+			otala	4
+			genel	4
+			çapulla	4
+			göy	4
+			kubaş	4
+			kubar	4
+			alaşımla	4
+			tün	4
+			büyüklen	4
+			banla	4
+			küre	4
+			koşulla	4
+			siy	4
+			fokurda	4
+			cebelleş	4
+			sonuçla	4
+			silola	4
+			kırıt	4
+			buzağıla	4
+			huysuzlan	4
+			huylan	4
+			haccet	4
+			savsakla	4
+			kavla	4
+			sızır	4
+			seyreyle	4
+			gürülde	4
+			merkezle	4
+			dayanış	4
+			sekile	4
+			nefyet	3
+			yalabı	3
+			gazla	3
+			karele	3
+			ergür	3
+			çapkı	3
+			kesele	3
+			mırla	3
+			arşınla	3
+			fısıldaş	3
+			esir	3
+			eser	3
+			jiletle	3
+			rötuşla	3
+			yerin	3
+			açımla	3
+			üş	3
+			dönen	3
+			çiziktir	3
+			kakış	3
+			tornala	3
+			yaltaklan	3
+			tavsa	3
+			ensele	3
+			bağda	3
+			sopala	3
+			badanala	3
+			haşılla	3
+			zımbala	3
+			çevrile	3
+			ötüş	3
+			celbet	3
+			tüy	3
+			parala	3
+			zamkla	3
+			kafesle	3
+			kargı	3
+			örnekse	3
+			ödünçle	3
+			devrolun	3
+			zikrolun	3
+			yadımla	3
+			harekele	3
+			sağal	3
+			tosla	3
+			sarsala	3
+			zimmetle	3
+			karbonatla	3
+			çevrin	3
+			şartla	3
+			menevişle	3
+			kep	3
+			demetlen	3
+			sürgüle	3
+			hortumla	3
+			gümbürde	3
+			alçıla	3
+			fitille	3
+			halet	3
+			keyfet	3
+			briketle	3
+			yazla	3
+			pörsü	3
+			masset	3
+			beşle	3
+			köpüklen	3
+			nötrle	3
+			tabet	3
+			koklaş	2
+			süzgeçle	2
+			parmakla	2
+			beneklen	2
+			bölgele	2
+			şerbetle	2
+			çent	2
+			polar	2
+			kinlen	2
+			tasnifle	2
+			sepele	2
+			kancala	2
+			notala	2
+			vehmet	2
+			şırılda	2
+			parametrele	2
+			diklen	2
+			anır	2
+			dipçikle	2
+			zıpkınla	2
+			çelmele	2
+			bandajla	2
+			sırı	2
+			siyanürle	2
+			sayla	2
+			vınla	2
+			sekit	2
+			guslet	2
+			alala	2
+			kırkla	2
+			erginle	2
+			ahdet	2
+			destele	2
+			topakla	2
+			barikatla	2
+			kıskaçla	2
+			kürne	2
+			deşele	2
+			ırgala	2
+			yivle	2
+			titizlen	2
+			desenle	2
+			okra	2
+			orantıla	2
+			röntgenle	2
+			kıp	2
+			açıl	2
+			gümüşle	2
+			çöm	2
+			osur	2
+			efkârlan	2
+			kürü	2
+			soğanla	2
+			dikel	2
+			yongala	2
+			cevret	2
+			vakla	2
+			ilmekle	2
+			zamlan	2
+			örgüle	2
+			sabunla	2
+			öze	2
+			serdet	2
+			çağılda	2
+			özgüle	2
+			dişle	2
+			tanele	2
+			pırılda	2
+			şampuanla	2
+			nurlan	2
+			renkle	2
+			mıncıkla	2
+			muştula	2
+			yaslan	2
+			çulla	2
+			uğun	2
+			yarlıga	2
+			kepeklen	2
+			kaşele	2
+			boyala	2
+			çimdikle	2
+			çuvalla	2
+			kalburla	2
+			gedil	2
+			tırmıkla	2
+			kavza	2
+			tımarla	2
+			sifonla	2
+			siperlen	2
+			arakla	2
+			darbele	2
+			dikizle	2
+			ırala	2
+			yelle	2
+			kâğıtla	2
+			eyerle	2
+			rutubetlen	2
+			sümkür	2
+			çırçırla	2
+			anıkla	2
+			şakra	2
+			ödeş	2
+			bekit	2
+			esle	2
+			kocal	2
+			nazmet	2
+			hamlet	2
+			karı	2
+			hırılda	2
+			nasiplen	2
+			çit	1
+			elektrikle	1
+			cıyakla	1
+			sıkıla	1
+			sabreyle	1
+			şarla	1
+			betelen	1
+			hasırla	1
+			apış	1
+			çentikle	1
+			tırpanla	1
+			ilintile	1
+			kahırlan	1
+			karşıtla	1
+			tekerle	1
+			bozla	1
+			ambarla	1
+			kılavuzla	1
+			koltukla	1
+			ahzet	1
+			afişle	1
+			pakla	1
+			kısımla	1
+			akçala	1
+			cıv	1
+			tayla	1
+			açınsa	1
+			mineralleştir	1
+			gemle	1
+			tabakala	1
+			hohla	1
+			minele	1
+			gadret	1
+			tırnakla	1
+			şırla	1
+			sıvala	1
+			soruş	1
+			dumanla	1
+			ayla	1
+			toslaş	1
+			çıtırda	1
+			tomrukla	1
+			harelen	1
+			unla	1
+			cüretlen	1
+			tayyet	1
+			poşetle	1
+			konukla	1
+			camla	1
+			tokmakla	1
+			soyla	1
+			feyzal	1
+			nakşol	1
+			sikkele	1
+			çapraş	1
+			sürüştür	1
+			eğleş	1
+			lağvol	1
+			kılıçla	1
+			harcet	1
+			tünekle	1
+			varakla	1
+			afsunla	1
+			çivitle	1
+			türet	1
+			fışırda	1
+			ötür	1
+			karışla	1
+			hıfzet	1
+			silahla	1
+			zenginle	1
+			durala	1
+			vızla	1
+			faslet	1
+			parafla	1
+			alacala	1
+			eyit	1
+			çıv	1
+			yırla	1
+			çile	1
+			payandala	1
+			emiş	1
+			tebeşirle	1
+			çaşıtla	1
+			işkillen	1
+			kalafatla	1
+			şeritle	1
+			kakala	1
+			mıknatısla	1
+			kuzula	1
+			yamala	1
+			aprele	1
+			deyiver	1
+			karmaş	1
+			recmet	1
+			gerekse	1
+			seyirt	1
+			gidiş	1
+			ağna	1
+			zehret	1
+			vıcırda	1
+			kınala	1
+			siyahlat	1
+			tıkın	1
+			gırtlakla	1
+			şekerle	1
+			addolun	1
+			harfle	1
+			lafla	1
+			hafifse	1
+			teyelle	1
+			meleş	1
+			kütürde	1
+			şutla	1
+			çöğün	1
+			bütçele	1
+			çayırla	1
+			reddeyle	1
+			mutlan	1
+			bollan	1
+			titret	1
+			güdele	1
+			çemre	1
+			savakla	1
+			kesbet	1
+			mayış	1
+			esenle	1
+			gaslet	1
+			mırılda	1
+			kolala	1
+			topukla	1
+			gıdakla	1
+			sislen	1
+			yelpazele	1
+			üzengile	1
+			terbiyele	1
+			aban	1
+			sancı	1
+			sığa	1
+			köpüle	1
+			orsala	1
+			yoğurtla	1
+			buğzet	1
+			tırs	1
+			zırvala	1
+			ılıştır	1
+			apazla	1
+			avuçla	1
+			abra	1
+			masajla	1
+			domal	1
+			sik	1
+			dazla	1
+			sarımsakla	1
+			havuzla	1
+			kredile	1
+			sarın	1
+			talanla	1
+			raspala	1
+			kaşarlan	1
+			dökün	1
+			merhabalaş	1
+			şaşala	1
+			dehle	1
+			kulaçla	1
+			fıkırda	1
+			yokumsa	1
+			planyala	1
+			kuşakla	1
+			rakamla	1
+			gurulda	1
+			ayrımsa	1
+			tıpala	1
+			böceklen	1
+			ödünle	1
+			zannolun	1
+			çekimle	1
+			sepetle	1
+			yanşa	1
+			tangırda	1
+			sıcakla	1
+			düğmele	1
+			hiçle	1
+			cumbala	1
+			çitle	1
+			kolayla	1
+			arkala	1
+			zırla	1
+			yülü	1
+			tipile	1
+			tirele	1
+			günüle	1
+			taharetlen	1
+			tüple	1
+			raptet	1
+			azotla	1
+			büyükse	1
+			cızırda	1
+			emreyle	1
+			çocukla	1
+			cemet	1
+			kemerle	1
+			küçükse	1
