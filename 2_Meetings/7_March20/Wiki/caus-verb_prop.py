@@ -47,9 +47,9 @@ df_lemma_counts_merged = df_lemma_counts_merged[
     [
         "caus_lemma",
         "caus_freq",
-        "caus_verb_proportion",
-        "verb_lemma",
         "verb_freq",
+        "caus_verb_proportion",
+        # "verb_lemma",
     ]
 ]
 
