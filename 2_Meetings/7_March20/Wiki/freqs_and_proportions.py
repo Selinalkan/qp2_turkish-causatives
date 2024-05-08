@@ -68,11 +68,6 @@ df_lemma_counts_caus["caus_proportion"] = (
     df_lemma_counts_caus["caus_freq"] / total_verbs
 ).round(3)
 
-# Calculate difference between proportions
-df_lemma_counts_verb["difference"] = (
-    df_lemma_counts_verb["verb_proportion"] - df_lemma_counts_caus["caus_proportion"]
-).round(2)
-
 # Merge the dataframes to align the frequencies correctly
 df_lemma_counts_merged = pd.merge(
     df_lemma_counts_verb,
@@ -81,6 +76,11 @@ df_lemma_counts_merged = pd.merge(
     left_on="verb_lemma",
     right_on="caus_lemma",
 )
+
+# Calculate difference between proportions after merging
+df_lemma_counts_merged["difference"] = (
+    df_lemma_counts_merged["verb_proportion"] - df_lemma_counts_merged["caus_proportion"]
+).round(3)
 
 # Reorder the columns
 df_lemma_counts_merged = df_lemma_counts_merged[
