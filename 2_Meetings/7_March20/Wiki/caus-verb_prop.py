@@ -38,7 +38,7 @@ df_lemma_counts_merged = pd.merge(
     right_on="caus_lemma",
 )
 
-df_lemma_counts_merged["caus_proportion"] = (
+df_lemma_counts_merged["caus_verb_proportion"] = (
     df_lemma_counts_merged["caus_freq"] / df_lemma_counts_merged["verb_freq"]
 ).round(3)
 
@@ -47,7 +47,7 @@ df_lemma_counts_merged = df_lemma_counts_merged[
     [
         "caus_lemma",
         "caus_freq",
-        "caus_proportion",
+        "caus_verb_proportion",
         "verb_lemma",
         "verb_freq",
     ]

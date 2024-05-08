@@ -1,4 +1,4 @@
-caus_lemma	caus_freq	caus_proportion	verb_lemma	verb_freq
+caus_lemma	caus_freq	caus_verb_proportion	verb_lemma	verb_freq
 oluş	28318.0	0.478	oluş	59247
 çık	24649.0	0.29	çık	85091
 geliş	15349.0	0.496	geliş	30925
