@@ -27,11 +27,6 @@ df_lemma_counts_verb["P(verb)"] = (
     df_lemma_counts_verb["verb_freq"] / total_verbs
 ).round(3)
 
-# Calculate P(CAUS)
-total_caus = df_lemma_counts_caus["caus_freq"].sum()
-# print(f"Total number of causative tokens is {total_caus}.")
-df_lemma_counts_caus["P(CAUS)"] = (total_caus / total_verbs).round(3)
-
 # Merge the two dataframes
 df_merged = pd.merge(
     df_lemma_counts_verb,
@@ -41,11 +36,16 @@ df_merged = pd.merge(
     how="left"
 )
 
+# Calculate P(CAUS)
+total_caus = df_lemma_counts_caus["caus_freq"].sum()
+# print(f"Total number of causative tokens is {total_caus}.")
+df_merged["P(CAUS)"] = (total_caus / total_verbs).round(3)
+
 # Fill NaN values in caus_freq with 0
 df_merged["caus_freq"] = df_merged["caus_freq"].fillna(0)
 
 # Calculate expected and actual proportions
-df_merged["expected_P(CAUS^verb)"] = (df_merged["P(verb)"] * df_lemma_counts_caus["P(CAUS)"]).round(3)
+df_merged["expected_P(CAUS^verb)"] = (df_merged["P(verb)"] * df_merged["P(CAUS)"]).round(3)
 df_merged["actual_P(CAUS^verb)"] = (df_merged["caus_freq"] / df_merged["verb_freq"]).round(3)
 
 # Calculate log of expected and actual proportions
