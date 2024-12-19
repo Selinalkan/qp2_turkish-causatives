@@ -53,6 +53,9 @@ df_merged["log_odds_ratio"] = (df_merged["log_expected"] - df_merged["log_actual
 # Fill NaN values in log_odds_ratio with a placeholder (e.g., 0 or any value you decide)
 df_merged["log_odds_ratio"] = df_merged["log_odds_ratio"].fillna(0)
 
+df_merged["log_expected"] = df_merged["log_expected"].round(3)
+df_merged["log_actual"] = df_merged["log_actual"].round(3)
+
 # Reorder the columns
 df_merged = df_merged[
     [
@@ -62,6 +65,8 @@ df_merged = df_merged[
         "caus_freq",
         "expected_P(CAUS^verb)",
         "actual_P(CAUS^verb)",
+        "log_expected",
+        "log_actual",
         "log_odds_ratio",
     ]
 ]
