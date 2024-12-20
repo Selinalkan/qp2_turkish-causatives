@@ -100,10 +100,10 @@ df_merged_less.to_csv("proportions-less.tsv", sep="\t", index=False)
 
 
 # Filter the dataframe to include only rows where log_odds_ratio > 0
-df_positive_lor = df_merged[df_merged['log_odds_ratio'] > 0]
+df_positive_lor = df_merged[df_merged['log_odds_ratio'] > 0.0]
 
-# Sort the filtered dataframe by log_odds_ratio in descending order
-df_positive_lor = df_positive_lor.sort_values('log_odds_ratio', ascending=False)
+# # Sort the filtered dataframe by log_odds_ratio in descending order
+# df_positive_lor = df_positive_lor.sort_values('log_odds_ratio', ascending=False)
 
 # Select the desired columns for the output
 df_positive_lor_less = df_positive_lor[
