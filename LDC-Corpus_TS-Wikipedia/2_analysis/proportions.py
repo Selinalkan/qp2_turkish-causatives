@@ -109,7 +109,9 @@ df_positive_lor = df_merged[df_merged['log_odds_ratio'] > 0.0]
 df_positive_lor_less = df_positive_lor[
     [
         "verb_lemma",
+        "verb_freq",
         "P(verb)",
+        "caus_freq",
         "P(CAUS)",
         "expected_P(CAUS^verb)",
         "actual_P(CAUS^verb)",
